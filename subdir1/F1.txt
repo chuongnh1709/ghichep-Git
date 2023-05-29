@@ -13,10 +13,4 @@ add after checkout to Debug -- master edit this line
 add after checkout to Debug -- Branch 1 edit this line
 >>>>>>> Branch_1
 */
--- commented 2 line of local , accept remote change
---<<<<<<< HEAD
--- add 2 -- branch 1 edit this line local
-
 add 2 -- master edit this line remote
--->>>>>>> 88ecbe774143a764fe2dffa278b814bde1c2f895
-
