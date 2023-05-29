@@ -4,7 +4,7 @@ second line
 
 third line
 
-forth line
+forth line   -- branch 2 edit this line
 ----------------------
 
 add after checkout to Debug
