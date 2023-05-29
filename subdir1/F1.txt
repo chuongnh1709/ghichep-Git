@@ -7,6 +7,6 @@ third line
 forth line   -- branch 2 edit this line
 ----------------------
 
-add after checkout to Debug
+add after checkout to Debug -- master edit this line
 add 2
 
