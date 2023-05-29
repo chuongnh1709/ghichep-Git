@@ -13,5 +13,5 @@ add after checkout to Debug -- master edit this line
 add after checkout to Debug -- Branch 1 edit this line
 >>>>>>> Branch_1
 */
-add 2
+add 2 -- master edit this line remote
 
